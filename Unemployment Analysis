@@ -1,0 +1,27 @@
+I have made Exploratory Data Analysis on the Unemployment data set.
+
+📌 Introduction:
+Exploratory Data Analysis (EDA) is the process of visually and statistically examining data to discover patterns, relationships, and insights, 
+aiding in the understanding of the dataset's characteristics.
+
+📌 Objective:
+Do Exploratory Data Analysis on the Unemployment data set.
+
+📌 Data:
+This data has 768 rows and 7 columns that are Region,	Date,	Frequency,	Estimated Unemployment Rate (%),	Estimated Employed,	Estimated Labour Participation Rate (%),	Area
+
+📌 Steps followed are:
+
+📍 Applied data preprocessing and preparation techniques in order to obtain clean data 
+
+1. Importing and understanding of data
+2. Missing value check
+3. Data Cleaning/Wrangling
+
+📍 Analysed data with exploratory data anlysis including Visualization whichs includes following steps
+
+1. Univariate Analysis
+2. Bivariate Analysis
+3. Histograms
+4. Boxplot
+5. Scatter plot
