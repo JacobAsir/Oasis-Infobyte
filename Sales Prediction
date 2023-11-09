@@ -1,0 +1,26 @@
+I have made this Sales Prediction Model using Linear Regression which is a supervised learning algorithm.
+
+📌 Introduction:
+Linear regression is used when we want to make predictions for continuous variables (in our case it's cnt). The dependent variable (or target column) is predicted based on how the value of the independent variable is changing according to the value of the dependent variable.
+
+📌 Objective:
+A machine learning model is to be proposed to predict a Sales Prediction based on data related to this.
+
+📌 Data:
+This data has 200 rows and 4 columns that are TV	Radio	Newspaper	Sales
+
+📍 Applied data preprocessing and preparation techniques includes following steps:
+
+1. Importing and understanding of data
+2. Correlation Check
+3. Bivariate Analysis
+
+📍 Built machine learning model to be able to predict shared bike demand based on the features using Linear regression
+
+1. Splitting data into training and testing data
+2. Building and training the model
+3. Making predictions from the model
+4. Testing the performance of the model -> There are three main performance metrics used for regression machine learning models:
+
+📌 Model Evaluation:
+Linear regression performed well giving a testing accuracy of almost 89.94% 
